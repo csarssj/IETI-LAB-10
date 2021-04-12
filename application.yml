@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:hola123@cluster0.mhop5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
